@@ -7,7 +7,7 @@
 <br />
 <p align="center">
   <a href="https://github.com/MichaelStickels/NR200_3D_Printed_Brackets">
-    <img src="Images/Design_Process/D55_0783.jpg" alt="Logo" height="300">
+    <img src="Images/Design_Process/D55_0783.JPG" alt="Logo" height="300">
   </a>
 
   <h3 align="center">NR200 3D PRinted Brackets</h3>
